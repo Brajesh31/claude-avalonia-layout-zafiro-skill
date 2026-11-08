@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Avalonia Layout Zafiro** for a related tas
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added five layout references: `themes.md`, `containers.md`, `icons.md`, `behaviors.md`, and `components.md`.
